@@ -4,4 +4,4 @@
 - 🌱 I am learning **Deep Learning and Machine Learning**
 
 
-- 🏫 Currently working as a Deep Learning Intern at Volkswagen AG
+- 🏫 Ex-Intern @ Volkswagen AG in Deep Learning
