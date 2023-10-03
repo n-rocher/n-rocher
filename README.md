@@ -4,5 +4,5 @@
 - 🌱 Learning **Deep Learning and Machine Learning**
 
 
-- 🏫 Ex-Intern @ Volkswagen AG in Deep Learning
-- 🏫 Intern @ Cariad in Deep Learning
+- 🏫 Ex-Intern @ Volkswagen AG in Computer Vision / Deep Learning applied to self-driving vehicules
+- 🏫 Ex-Intern @ Cariad in Computer Vision / Deep Learning applied to self-driving vehicules
